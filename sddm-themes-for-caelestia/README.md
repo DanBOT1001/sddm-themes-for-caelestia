@@ -21,3 +21,10 @@ Simply click on a theme card in the UI. The watcher script will detect the reque
 
 ## Credits
 This project utilizes a robust file-bridge architecture to ensure shell stability and security.
+
+<html>
+   <body>
+      <img width="1808" height="1138" alt="image" src="https://github.com/user-attachments/assets/033a20aa-1f8a-4cdd-97cb-8abb557ab9c6" />
+
+   </body>
+</html>
