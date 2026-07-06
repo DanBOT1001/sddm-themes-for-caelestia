@@ -20,7 +20,7 @@ A simple, stable interface to switch SDDM login themes directly from your shell 
 Simply click on a theme card in the UI. The watcher script will detect the request and prompt you for your password via `pkexec` to apply the changes.
 
 ## Credits
-This project utilizes a robust file-bridge architecture to ensure shell stability and security.
+Created Using Gemini
 
 <html>
    <body>
